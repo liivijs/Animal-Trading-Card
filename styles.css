@@ -1,0 +1,41 @@
+/* add your CSS here */
+#card{
+	border: 1px solid lightgrey;
+	border-radius: 5px;
+	box-shadow: 3px 3px 3px #e5e5e5;
+	background-color: #d6fdff; 
+	padding: 15px;
+	width: 300px;
+}
+.header{
+	font-size: 25px;
+	color: #436b6d;
+	text-align: center;
+    width: 280px;
+    padding: 5px;
+   	border: 5px dotted lightblue;
+	border-radius: 15px;
+	margin-top: 5px;
+}
+.info{
+	border: 2px solid white;
+	margin-top: 10px;
+	width: 300px;
+	height: 400px;
+}
+.interesting-fact{
+	font-style: italic;
+}
+span {
+	font-weight: bold;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.image{
+	width: 300px;
+	display: block;
+	border: 2px solid white;
+}
